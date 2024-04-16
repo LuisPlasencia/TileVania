@@ -4,7 +4,7 @@ Unity 3.1.2 2d Platform Game
 - Space to jump
 - Left Click to shoot
 
-Platable builds: https://drive.google.com/drive/folders/14_67Wq4b1otDy_ixzzOd_BPq3h8Ndz2N?usp=sharing
+Playable builds: https://drive.google.com/drive/folders/14_67Wq4b1otDy_ixzzOd_BPq3h8Ndz2N?usp=sharing
 
 ![Screenshot (5685)](https://github.com/LuisPlasencia/TileVania/assets/60783486/3c801a0f-bc66-4aed-827a-4deb9547885c)
 
